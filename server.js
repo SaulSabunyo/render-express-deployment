@@ -1,4 +1,4 @@
-const require = require('express');
+const express = require('express');
 const app = express();// Initialize Express application
 const port = process.env.PORT || 3000;
 
